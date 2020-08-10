@@ -1,0 +1,23 @@
+C:\Users\usmenzabanov\source\repos\ExerciseMultidimentionalArrays\KnightGame\bin\Debug\netcoreapp2.1\KnightGame.deps.json
+C:\Users\usmenzabanov\source\repos\ExerciseMultidimentionalArrays\KnightGame\bin\Debug\netcoreapp2.1\KnightGame.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\ExerciseMultidimentionalArrays\KnightGame\bin\Debug\netcoreapp2.1\KnightGame.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\ExerciseMultidimentionalArrays\KnightGame\bin\Debug\netcoreapp2.1\KnightGame.dll
+C:\Users\usmenzabanov\source\repos\ExerciseMultidimentionalArrays\KnightGame\bin\Debug\netcoreapp2.1\KnightGame.pdb
+C:\Users\usmenzabanov\source\repos\ExerciseMultidimentionalArrays\KnightGame\obj\Debug\netcoreapp2.1\KnightGame.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\ExerciseMultidimentionalArrays\KnightGame\obj\Debug\netcoreapp2.1\KnightGame.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ExerciseMultidimentionalArrays\KnightGame\obj\Debug\netcoreapp2.1\KnightGame.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\ExerciseMultidimentionalArrays\KnightGame\obj\Debug\netcoreapp2.1\KnightGame.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\ExerciseMultidimentionalArrays\KnightGame\obj\Debug\netcoreapp2.1\KnightGame.dll
+C:\Users\usmenzabanov\source\repos\ExerciseMultidimentionalArrays\KnightGame\obj\Debug\netcoreapp2.1\KnightGame.pdb
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\ExerciseMultidimentionalArrays\KnightGame\bin\Debug\netcoreapp2.1\KnightGame.deps.json
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\ExerciseMultidimentionalArrays\KnightGame\bin\Debug\netcoreapp2.1\KnightGame.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\ExerciseMultidimentionalArrays\KnightGame\bin\Debug\netcoreapp2.1\KnightGame.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\ExerciseMultidimentionalArrays\KnightGame\bin\Debug\netcoreapp2.1\KnightGame.dll
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\ExerciseMultidimentionalArrays\KnightGame\bin\Debug\netcoreapp2.1\KnightGame.pdb
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\ExerciseMultidimentionalArrays\KnightGame\obj\Debug\netcoreapp2.1\KnightGame.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\ExerciseMultidimentionalArrays\KnightGame\obj\Debug\netcoreapp2.1\KnightGame.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\ExerciseMultidimentionalArrays\KnightGame\obj\Debug\netcoreapp2.1\KnightGame.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\ExerciseMultidimentionalArrays\KnightGame\obj\Debug\netcoreapp2.1\KnightGame.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\ExerciseMultidimentionalArrays\KnightGame\obj\Debug\netcoreapp2.1\KnightGame.dll
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\ExerciseMultidimentionalArrays\KnightGame\obj\Debug\netcoreapp2.1\KnightGame.pdb
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\ExerciseMultidimentionalArrays\KnightGame\obj\Debug\netcoreapp2.1\KnightGame.genruntimeconfig.cache

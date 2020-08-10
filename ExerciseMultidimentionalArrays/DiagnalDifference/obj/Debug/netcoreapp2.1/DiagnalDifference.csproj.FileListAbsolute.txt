@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\ExerciseMultidimentionalArrays\DiagnalDifference\bin\Debug\netcoreapp2.1\DiagnalDifference.deps.json
+C:\Users\usmenzabanov\source\repos\ExerciseMultidimentionalArrays\DiagnalDifference\bin\Debug\netcoreapp2.1\DiagnalDifference.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\ExerciseMultidimentionalArrays\DiagnalDifference\bin\Debug\netcoreapp2.1\DiagnalDifference.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\ExerciseMultidimentionalArrays\DiagnalDifference\bin\Debug\netcoreapp2.1\DiagnalDifference.dll
+C:\Users\usmenzabanov\source\repos\ExerciseMultidimentionalArrays\DiagnalDifference\bin\Debug\netcoreapp2.1\DiagnalDifference.pdb
+C:\Users\usmenzabanov\source\repos\ExerciseMultidimentionalArrays\DiagnalDifference\obj\Debug\netcoreapp2.1\DiagnalDifference.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\ExerciseMultidimentionalArrays\DiagnalDifference\obj\Debug\netcoreapp2.1\DiagnalDifference.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ExerciseMultidimentionalArrays\DiagnalDifference\obj\Debug\netcoreapp2.1\DiagnalDifference.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\ExerciseMultidimentionalArrays\DiagnalDifference\obj\Debug\netcoreapp2.1\DiagnalDifference.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\ExerciseMultidimentionalArrays\DiagnalDifference\obj\Debug\netcoreapp2.1\DiagnalDifference.dll
+C:\Users\usmenzabanov\source\repos\ExerciseMultidimentionalArrays\DiagnalDifference\obj\Debug\netcoreapp2.1\DiagnalDifference.pdb
