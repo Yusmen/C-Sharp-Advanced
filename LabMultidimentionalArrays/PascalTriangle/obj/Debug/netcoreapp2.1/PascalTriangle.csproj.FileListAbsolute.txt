@@ -1,0 +1,23 @@
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\PascalTriangle\bin\Debug\netcoreapp2.1\PascalTriangle.deps.json
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\PascalTriangle\bin\Debug\netcoreapp2.1\PascalTriangle.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\PascalTriangle\bin\Debug\netcoreapp2.1\PascalTriangle.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\PascalTriangle\bin\Debug\netcoreapp2.1\PascalTriangle.dll
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\PascalTriangle\bin\Debug\netcoreapp2.1\PascalTriangle.pdb
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\PascalTriangle\obj\Debug\netcoreapp2.1\PascalTriangle.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\PascalTriangle\obj\Debug\netcoreapp2.1\PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\PascalTriangle\obj\Debug\netcoreapp2.1\PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\PascalTriangle\obj\Debug\netcoreapp2.1\PascalTriangle.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\PascalTriangle\obj\Debug\netcoreapp2.1\PascalTriangle.dll
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\PascalTriangle\obj\Debug\netcoreapp2.1\PascalTriangle.pdb
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabMultidimentionalArrays\PascalTriangle\bin\Debug\netcoreapp2.1\PascalTriangle.deps.json
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabMultidimentionalArrays\PascalTriangle\bin\Debug\netcoreapp2.1\PascalTriangle.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabMultidimentionalArrays\PascalTriangle\bin\Debug\netcoreapp2.1\PascalTriangle.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabMultidimentionalArrays\PascalTriangle\bin\Debug\netcoreapp2.1\PascalTriangle.dll
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabMultidimentionalArrays\PascalTriangle\bin\Debug\netcoreapp2.1\PascalTriangle.pdb
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabMultidimentionalArrays\PascalTriangle\obj\Debug\netcoreapp2.1\PascalTriangle.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabMultidimentionalArrays\PascalTriangle\obj\Debug\netcoreapp2.1\PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabMultidimentionalArrays\PascalTriangle\obj\Debug\netcoreapp2.1\PascalTriangle.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabMultidimentionalArrays\PascalTriangle\obj\Debug\netcoreapp2.1\PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabMultidimentionalArrays\PascalTriangle\obj\Debug\netcoreapp2.1\PascalTriangle.dll
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabMultidimentionalArrays\PascalTriangle\obj\Debug\netcoreapp2.1\PascalTriangle.pdb
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabMultidimentionalArrays\PascalTriangle\obj\Debug\netcoreapp2.1\PascalTriangle.genruntimeconfig.cache

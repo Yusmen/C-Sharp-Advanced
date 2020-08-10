@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\JaggedArrayModification\bin\Debug\netcoreapp2.1\JaggedArrayModification.deps.json
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\JaggedArrayModification\bin\Debug\netcoreapp2.1\JaggedArrayModification.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\JaggedArrayModification\bin\Debug\netcoreapp2.1\JaggedArrayModification.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\JaggedArrayModification\bin\Debug\netcoreapp2.1\JaggedArrayModification.dll
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\JaggedArrayModification\bin\Debug\netcoreapp2.1\JaggedArrayModification.pdb
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\JaggedArrayModification\obj\Debug\netcoreapp2.1\JaggedArrayModification.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\JaggedArrayModification\obj\Debug\netcoreapp2.1\JaggedArrayModification.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\JaggedArrayModification\obj\Debug\netcoreapp2.1\JaggedArrayModification.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\JaggedArrayModification\obj\Debug\netcoreapp2.1\JaggedArrayModification.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\JaggedArrayModification\obj\Debug\netcoreapp2.1\JaggedArrayModification.dll
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\JaggedArrayModification\obj\Debug\netcoreapp2.1\JaggedArrayModification.pdb

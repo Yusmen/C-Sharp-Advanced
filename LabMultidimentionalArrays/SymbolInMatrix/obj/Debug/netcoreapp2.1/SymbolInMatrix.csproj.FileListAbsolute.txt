@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\SymbolInMatrix\bin\Debug\netcoreapp2.1\SymbolInMatrix.deps.json
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\SymbolInMatrix\bin\Debug\netcoreapp2.1\SymbolInMatrix.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\SymbolInMatrix\bin\Debug\netcoreapp2.1\SymbolInMatrix.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\SymbolInMatrix\bin\Debug\netcoreapp2.1\SymbolInMatrix.dll
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\SymbolInMatrix\bin\Debug\netcoreapp2.1\SymbolInMatrix.pdb
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\SymbolInMatrix\obj\Debug\netcoreapp2.1\SymbolInMatrix.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\SymbolInMatrix\obj\Debug\netcoreapp2.1\SymbolInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\SymbolInMatrix\obj\Debug\netcoreapp2.1\SymbolInMatrix.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\SymbolInMatrix\obj\Debug\netcoreapp2.1\SymbolInMatrix.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\SymbolInMatrix\obj\Debug\netcoreapp2.1\SymbolInMatrix.dll
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\SymbolInMatrix\obj\Debug\netcoreapp2.1\SymbolInMatrix.pdb

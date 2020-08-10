@@ -1,0 +1,22 @@
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\SquareWithMaxSum\bin\Debug\netcoreapp2.1\SquareWithMaxSum.deps.json
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\SquareWithMaxSum\bin\Debug\netcoreapp2.1\SquareWithMaxSum.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\SquareWithMaxSum\bin\Debug\netcoreapp2.1\SquareWithMaxSum.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\SquareWithMaxSum\bin\Debug\netcoreapp2.1\SquareWithMaxSum.dll
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\SquareWithMaxSum\bin\Debug\netcoreapp2.1\SquareWithMaxSum.pdb
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\SquareWithMaxSum\obj\Debug\netcoreapp2.1\SquareWithMaxSum.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\SquareWithMaxSum\obj\Debug\netcoreapp2.1\SquareWithMaxSum.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\SquareWithMaxSum\obj\Debug\netcoreapp2.1\SquareWithMaxSum.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\SquareWithMaxSum\obj\Debug\netcoreapp2.1\SquareWithMaxSum.dll
+C:\Users\usmenzabanov\source\repos\LabMultidimentionalArrays\SquareWithMaxSum\obj\Debug\netcoreapp2.1\SquareWithMaxSum.pdb
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabMultidimentionalArrays\SquareWithMaxSum\bin\Debug\netcoreapp2.1\SquareWithMaxSum.deps.json
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabMultidimentionalArrays\SquareWithMaxSum\bin\Debug\netcoreapp2.1\SquareWithMaxSum.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabMultidimentionalArrays\SquareWithMaxSum\bin\Debug\netcoreapp2.1\SquareWithMaxSum.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabMultidimentionalArrays\SquareWithMaxSum\bin\Debug\netcoreapp2.1\SquareWithMaxSum.dll
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabMultidimentionalArrays\SquareWithMaxSum\bin\Debug\netcoreapp2.1\SquareWithMaxSum.pdb
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabMultidimentionalArrays\SquareWithMaxSum\obj\Debug\netcoreapp2.1\SquareWithMaxSum.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabMultidimentionalArrays\SquareWithMaxSum\obj\Debug\netcoreapp2.1\SquareWithMaxSum.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabMultidimentionalArrays\SquareWithMaxSum\obj\Debug\netcoreapp2.1\SquareWithMaxSum.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabMultidimentionalArrays\SquareWithMaxSum\obj\Debug\netcoreapp2.1\SquareWithMaxSum.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabMultidimentionalArrays\SquareWithMaxSum\obj\Debug\netcoreapp2.1\SquareWithMaxSum.dll
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabMultidimentionalArrays\SquareWithMaxSum\obj\Debug\netcoreapp2.1\SquareWithMaxSum.pdb
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabMultidimentionalArrays\SquareWithMaxSum\obj\Debug\netcoreapp2.1\SquareWithMaxSum.genruntimeconfig.cache
