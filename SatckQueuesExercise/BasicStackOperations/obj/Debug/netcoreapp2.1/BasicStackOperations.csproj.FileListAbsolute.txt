@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\BasicStackOperations\bin\Debug\netcoreapp2.1\BasicStackOperations.deps.json
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\BasicStackOperations\bin\Debug\netcoreapp2.1\BasicStackOperations.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\BasicStackOperations\bin\Debug\netcoreapp2.1\BasicStackOperations.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\BasicStackOperations\bin\Debug\netcoreapp2.1\BasicStackOperations.dll
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\BasicStackOperations\bin\Debug\netcoreapp2.1\BasicStackOperations.pdb
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\BasicStackOperations\obj\Debug\netcoreapp2.1\BasicStackOperations.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\BasicStackOperations\obj\Debug\netcoreapp2.1\BasicStackOperations.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\BasicStackOperations\obj\Debug\netcoreapp2.1\BasicStackOperations.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\BasicStackOperations\obj\Debug\netcoreapp2.1\BasicStackOperations.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\BasicStackOperations\obj\Debug\netcoreapp2.1\BasicStackOperations.dll
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\BasicStackOperations\obj\Debug\netcoreapp2.1\BasicStackOperations.pdb

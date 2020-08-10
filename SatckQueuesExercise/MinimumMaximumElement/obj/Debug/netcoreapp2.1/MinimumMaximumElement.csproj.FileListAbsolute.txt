@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\MinimumMaximumElement\bin\Debug\netcoreapp2.1\MinimumMaximumElement.deps.json
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\MinimumMaximumElement\bin\Debug\netcoreapp2.1\MinimumMaximumElement.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\MinimumMaximumElement\bin\Debug\netcoreapp2.1\MinimumMaximumElement.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\MinimumMaximumElement\bin\Debug\netcoreapp2.1\MinimumMaximumElement.dll
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\MinimumMaximumElement\bin\Debug\netcoreapp2.1\MinimumMaximumElement.pdb
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\MinimumMaximumElement\obj\Debug\netcoreapp2.1\MinimumMaximumElement.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\MinimumMaximumElement\obj\Debug\netcoreapp2.1\MinimumMaximumElement.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\MinimumMaximumElement\obj\Debug\netcoreapp2.1\MinimumMaximumElement.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\MinimumMaximumElement\obj\Debug\netcoreapp2.1\MinimumMaximumElement.dll
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\MinimumMaximumElement\obj\Debug\netcoreapp2.1\MinimumMaximumElement.pdb
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\MinimumMaximumElement\obj\Debug\netcoreapp2.1\MinimumMaximumElement.csprojAssemblyReference.cache

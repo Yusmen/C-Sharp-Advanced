@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\AutoRepairService\bin\Debug\netcoreapp2.1\AutoRepairService.deps.json
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\AutoRepairService\bin\Debug\netcoreapp2.1\AutoRepairService.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\AutoRepairService\bin\Debug\netcoreapp2.1\AutoRepairService.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\AutoRepairService\bin\Debug\netcoreapp2.1\AutoRepairService.dll
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\AutoRepairService\bin\Debug\netcoreapp2.1\AutoRepairService.pdb
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\AutoRepairService\obj\Debug\netcoreapp2.1\AutoRepairService.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\AutoRepairService\obj\Debug\netcoreapp2.1\AutoRepairService.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\AutoRepairService\obj\Debug\netcoreapp2.1\AutoRepairService.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\AutoRepairService\obj\Debug\netcoreapp2.1\AutoRepairService.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\AutoRepairService\obj\Debug\netcoreapp2.1\AutoRepairService.dll
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\AutoRepairService\obj\Debug\netcoreapp2.1\AutoRepairService.pdb

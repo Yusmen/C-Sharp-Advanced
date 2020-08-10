@@ -1,0 +1,23 @@
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\Crossroads\bin\Debug\netcoreapp2.1\Crossroads.deps.json
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\Crossroads\bin\Debug\netcoreapp2.1\Crossroads.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\Crossroads\bin\Debug\netcoreapp2.1\Crossroads.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\Crossroads\bin\Debug\netcoreapp2.1\Crossroads.dll
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\Crossroads\bin\Debug\netcoreapp2.1\Crossroads.pdb
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.dll
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.pdb
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\SatckQueuesExercise\Crossroads\bin\Debug\netcoreapp2.1\Crossroads.deps.json
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\SatckQueuesExercise\Crossroads\bin\Debug\netcoreapp2.1\Crossroads.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\SatckQueuesExercise\Crossroads\bin\Debug\netcoreapp2.1\Crossroads.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\SatckQueuesExercise\Crossroads\bin\Debug\netcoreapp2.1\Crossroads.dll
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\SatckQueuesExercise\Crossroads\bin\Debug\netcoreapp2.1\Crossroads.pdb
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\SatckQueuesExercise\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\SatckQueuesExercise\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\SatckQueuesExercise\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\SatckQueuesExercise\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\SatckQueuesExercise\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.dll
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\SatckQueuesExercise\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.pdb
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\SatckQueuesExercise\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.genruntimeconfig.cache

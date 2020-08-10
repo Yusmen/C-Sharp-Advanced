@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\TruckTour\bin\Debug\netcoreapp2.1\TruckTour.deps.json
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\TruckTour\bin\Debug\netcoreapp2.1\TruckTour.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\TruckTour\bin\Debug\netcoreapp2.1\TruckTour.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\TruckTour\bin\Debug\netcoreapp2.1\TruckTour.dll
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\TruckTour\bin\Debug\netcoreapp2.1\TruckTour.pdb
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\TruckTour\obj\Debug\netcoreapp2.1\TruckTour.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\TruckTour\obj\Debug\netcoreapp2.1\TruckTour.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\TruckTour\obj\Debug\netcoreapp2.1\TruckTour.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\TruckTour\obj\Debug\netcoreapp2.1\TruckTour.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\TruckTour\obj\Debug\netcoreapp2.1\TruckTour.dll
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\TruckTour\obj\Debug\netcoreapp2.1\TruckTour.pdb

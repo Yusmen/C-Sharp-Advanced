@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\BalancedParenthess\bin\Debug\netcoreapp2.1\BalancedParenthess.deps.json
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\BalancedParenthess\bin\Debug\netcoreapp2.1\BalancedParenthess.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\BalancedParenthess\bin\Debug\netcoreapp2.1\BalancedParenthess.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\BalancedParenthess\bin\Debug\netcoreapp2.1\BalancedParenthess.dll
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\BalancedParenthess\bin\Debug\netcoreapp2.1\BalancedParenthess.pdb
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\BalancedParenthess\obj\Debug\netcoreapp2.1\BalancedParenthess.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\BalancedParenthess\obj\Debug\netcoreapp2.1\BalancedParenthess.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\BalancedParenthess\obj\Debug\netcoreapp2.1\BalancedParenthess.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\BalancedParenthess\obj\Debug\netcoreapp2.1\BalancedParenthess.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\BalancedParenthess\obj\Debug\netcoreapp2.1\BalancedParenthess.dll
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\BalancedParenthess\obj\Debug\netcoreapp2.1\BalancedParenthess.pdb

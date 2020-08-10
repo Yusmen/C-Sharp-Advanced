@@ -1,0 +1,10 @@
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\FastFood\bin\Debug\netcoreapp2.1\FastFood.deps.json
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\FastFood\bin\Debug\netcoreapp2.1\FastFood.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\FastFood\bin\Debug\netcoreapp2.1\FastFood.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\FastFood\bin\Debug\netcoreapp2.1\FastFood.dll
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\FastFood\bin\Debug\netcoreapp2.1\FastFood.pdb
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\FastFood\obj\Debug\netcoreapp2.1\FastFood.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\FastFood\obj\Debug\netcoreapp2.1\FastFood.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\FastFood\obj\Debug\netcoreapp2.1\FastFood.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\FastFood\obj\Debug\netcoreapp2.1\FastFood.dll
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\FastFood\obj\Debug\netcoreapp2.1\FastFood.pdb

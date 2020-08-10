@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\Simple\bin\Debug\netcoreapp2.1\Simple.deps.json
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\Simple\bin\Debug\netcoreapp2.1\Simple.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\Simple\bin\Debug\netcoreapp2.1\Simple.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\Simple\bin\Debug\netcoreapp2.1\Simple.dll
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\Simple\bin\Debug\netcoreapp2.1\Simple.pdb
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\Simple\obj\Debug\netcoreapp2.1\Simple.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\Simple\obj\Debug\netcoreapp2.1\Simple.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\Simple\obj\Debug\netcoreapp2.1\Simple.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\Simple\obj\Debug\netcoreapp2.1\Simple.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\Simple\obj\Debug\netcoreapp2.1\Simple.dll
+C:\Users\usmenzabanov\source\repos\SatckQueuesExercise\Simple\obj\Debug\netcoreapp2.1\Simple.pdb
