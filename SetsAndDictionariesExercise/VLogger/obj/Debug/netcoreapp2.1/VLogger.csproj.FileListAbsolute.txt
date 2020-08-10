@@ -1,0 +1,23 @@
+C:\Users\usmenzabanov\source\repos\Solution7\VLogger\bin\Debug\netcoreapp2.1\VLogger.deps.json
+C:\Users\usmenzabanov\source\repos\Solution7\VLogger\bin\Debug\netcoreapp2.1\VLogger.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\Solution7\VLogger\bin\Debug\netcoreapp2.1\VLogger.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\Solution7\VLogger\bin\Debug\netcoreapp2.1\VLogger.dll
+C:\Users\usmenzabanov\source\repos\Solution7\VLogger\bin\Debug\netcoreapp2.1\VLogger.pdb
+C:\Users\usmenzabanov\source\repos\Solution7\VLogger\obj\Debug\netcoreapp2.1\VLogger.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Solution7\VLogger\obj\Debug\netcoreapp2.1\VLogger.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution7\VLogger\obj\Debug\netcoreapp2.1\VLogger.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution7\VLogger\obj\Debug\netcoreapp2.1\VLogger.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\Solution7\VLogger\obj\Debug\netcoreapp2.1\VLogger.dll
+C:\Users\usmenzabanov\source\repos\Solution7\VLogger\obj\Debug\netcoreapp2.1\VLogger.pdb
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\SetsAndDictionariesExercise\VLogger\bin\Debug\netcoreapp2.1\VLogger.deps.json
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\SetsAndDictionariesExercise\VLogger\bin\Debug\netcoreapp2.1\VLogger.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\SetsAndDictionariesExercise\VLogger\bin\Debug\netcoreapp2.1\VLogger.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\SetsAndDictionariesExercise\VLogger\bin\Debug\netcoreapp2.1\VLogger.dll
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\SetsAndDictionariesExercise\VLogger\bin\Debug\netcoreapp2.1\VLogger.pdb
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\SetsAndDictionariesExercise\VLogger\obj\Debug\netcoreapp2.1\VLogger.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\SetsAndDictionariesExercise\VLogger\obj\Debug\netcoreapp2.1\VLogger.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\SetsAndDictionariesExercise\VLogger\obj\Debug\netcoreapp2.1\VLogger.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\SetsAndDictionariesExercise\VLogger\obj\Debug\netcoreapp2.1\VLogger.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\SetsAndDictionariesExercise\VLogger\obj\Debug\netcoreapp2.1\VLogger.dll
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\SetsAndDictionariesExercise\VLogger\obj\Debug\netcoreapp2.1\VLogger.pdb
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\SetsAndDictionariesExercise\VLogger\obj\Debug\netcoreapp2.1\VLogger.genruntimeconfig.cache

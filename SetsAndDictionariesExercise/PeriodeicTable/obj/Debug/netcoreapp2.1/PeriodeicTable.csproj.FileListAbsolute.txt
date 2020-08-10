@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\Solution7\PeriodeicTable\bin\Debug\netcoreapp2.1\PeriodeicTable.deps.json
+C:\Users\usmenzabanov\source\repos\Solution7\PeriodeicTable\bin\Debug\netcoreapp2.1\PeriodeicTable.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\Solution7\PeriodeicTable\bin\Debug\netcoreapp2.1\PeriodeicTable.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\Solution7\PeriodeicTable\bin\Debug\netcoreapp2.1\PeriodeicTable.dll
+C:\Users\usmenzabanov\source\repos\Solution7\PeriodeicTable\bin\Debug\netcoreapp2.1\PeriodeicTable.pdb
+C:\Users\usmenzabanov\source\repos\Solution7\PeriodeicTable\obj\Debug\netcoreapp2.1\PeriodeicTable.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Solution7\PeriodeicTable\obj\Debug\netcoreapp2.1\PeriodeicTable.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution7\PeriodeicTable\obj\Debug\netcoreapp2.1\PeriodeicTable.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution7\PeriodeicTable\obj\Debug\netcoreapp2.1\PeriodeicTable.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\Solution7\PeriodeicTable\obj\Debug\netcoreapp2.1\PeriodeicTable.dll
+C:\Users\usmenzabanov\source\repos\Solution7\PeriodeicTable\obj\Debug\netcoreapp2.1\PeriodeicTable.pdb

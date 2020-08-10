@@ -1,0 +1,10 @@
+C:\Users\usmenzabanov\source\repos\Solution7\SetsOfelemnets\bin\Debug\netcoreapp2.1\SetsOfelemnets.deps.json
+C:\Users\usmenzabanov\source\repos\Solution7\SetsOfelemnets\bin\Debug\netcoreapp2.1\SetsOfelemnets.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\Solution7\SetsOfelemnets\bin\Debug\netcoreapp2.1\SetsOfelemnets.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\Solution7\SetsOfelemnets\bin\Debug\netcoreapp2.1\SetsOfelemnets.dll
+C:\Users\usmenzabanov\source\repos\Solution7\SetsOfelemnets\bin\Debug\netcoreapp2.1\SetsOfelemnets.pdb
+C:\Users\usmenzabanov\source\repos\Solution7\SetsOfelemnets\obj\Debug\netcoreapp2.1\SetsOfelemnets.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution7\SetsOfelemnets\obj\Debug\netcoreapp2.1\SetsOfelemnets.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution7\SetsOfelemnets\obj\Debug\netcoreapp2.1\SetsOfelemnets.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\Solution7\SetsOfelemnets\obj\Debug\netcoreapp2.1\SetsOfelemnets.dll
+C:\Users\usmenzabanov\source\repos\Solution7\SetsOfelemnets\obj\Debug\netcoreapp2.1\SetsOfelemnets.pdb
