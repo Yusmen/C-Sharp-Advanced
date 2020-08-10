@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\LineNumbersExercise\bin\Debug\netcoreapp2.1\LineNumbersExercise.deps.json
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\LineNumbersExercise\bin\Debug\netcoreapp2.1\LineNumbersExercise.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\LineNumbersExercise\bin\Debug\netcoreapp2.1\LineNumbersExercise.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\LineNumbersExercise\bin\Debug\netcoreapp2.1\LineNumbersExercise.dll
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\LineNumbersExercise\bin\Debug\netcoreapp2.1\LineNumbersExercise.pdb
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\LineNumbersExercise\obj\Debug\netcoreapp2.1\LineNumbersExercise.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\LineNumbersExercise\obj\Debug\netcoreapp2.1\LineNumbersExercise.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\LineNumbersExercise\obj\Debug\netcoreapp2.1\LineNumbersExercise.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\LineNumbersExercise\obj\Debug\netcoreapp2.1\LineNumbersExercise.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\LineNumbersExercise\obj\Debug\netcoreapp2.1\LineNumbersExercise.dll
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\LineNumbersExercise\obj\Debug\netcoreapp2.1\LineNumbersExercise.pdb

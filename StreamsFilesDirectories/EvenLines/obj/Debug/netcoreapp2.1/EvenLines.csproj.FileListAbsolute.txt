@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\EvenLines\bin\Debug\netcoreapp2.1\EvenLines.deps.json
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\EvenLines\bin\Debug\netcoreapp2.1\EvenLines.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\EvenLines\bin\Debug\netcoreapp2.1\EvenLines.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\EvenLines\bin\Debug\netcoreapp2.1\EvenLines.dll
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\EvenLines\bin\Debug\netcoreapp2.1\EvenLines.pdb
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\EvenLines\obj\Debug\netcoreapp2.1\EvenLines.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\EvenLines\obj\Debug\netcoreapp2.1\EvenLines.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\EvenLines\obj\Debug\netcoreapp2.1\EvenLines.dll
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\EvenLines\obj\Debug\netcoreapp2.1\EvenLines.pdb
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\EvenLines\obj\Debug\netcoreapp2.1\EvenLines.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\EvenLines\obj\Debug\netcoreapp2.1\EvenLines.genruntimeconfig.cache

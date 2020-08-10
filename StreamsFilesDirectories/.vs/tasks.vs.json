@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-Input",
+      "appliesTo": "Streams/Input.txt",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-Pesho",
+      "appliesTo": "Streams/bin/Debug/netcoreapp2.1/Pesho.txt",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-Input",
+      "appliesTo": "Streams/bin/Debug/netcoreapp2.1/Input.txt",
+      "type": "launch"
+    }
+  ]
+}

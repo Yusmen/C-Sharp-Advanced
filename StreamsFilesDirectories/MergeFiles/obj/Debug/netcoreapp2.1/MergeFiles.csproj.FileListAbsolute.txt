@@ -1,0 +1,10 @@
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\MergeFiles\bin\Debug\netcoreapp2.1\MergeFiles.deps.json
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\MergeFiles\bin\Debug\netcoreapp2.1\MergeFiles.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\MergeFiles\bin\Debug\netcoreapp2.1\MergeFiles.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\MergeFiles\bin\Debug\netcoreapp2.1\MergeFiles.dll
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\MergeFiles\bin\Debug\netcoreapp2.1\MergeFiles.pdb
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\MergeFiles\obj\Debug\netcoreapp2.1\MergeFiles.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\MergeFiles\obj\Debug\netcoreapp2.1\MergeFiles.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\MergeFiles\obj\Debug\netcoreapp2.1\MergeFiles.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\MergeFiles\obj\Debug\netcoreapp2.1\MergeFiles.dll
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\MergeFiles\obj\Debug\netcoreapp2.1\MergeFiles.pdb

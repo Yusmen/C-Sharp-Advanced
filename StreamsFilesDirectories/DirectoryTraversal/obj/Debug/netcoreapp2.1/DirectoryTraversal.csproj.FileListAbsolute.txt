@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\DirectoryTraversal\bin\Debug\netcoreapp2.1\DirectoryTraversal.deps.json
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\DirectoryTraversal\bin\Debug\netcoreapp2.1\DirectoryTraversal.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\DirectoryTraversal\bin\Debug\netcoreapp2.1\DirectoryTraversal.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\DirectoryTraversal\bin\Debug\netcoreapp2.1\DirectoryTraversal.dll
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\DirectoryTraversal\bin\Debug\netcoreapp2.1\DirectoryTraversal.pdb
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\DirectoryTraversal\obj\Debug\netcoreapp2.1\DirectoryTraversal.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\DirectoryTraversal\obj\Debug\netcoreapp2.1\DirectoryTraversal.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\DirectoryTraversal\obj\Debug\netcoreapp2.1\DirectoryTraversal.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\DirectoryTraversal\obj\Debug\netcoreapp2.1\DirectoryTraversal.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\DirectoryTraversal\obj\Debug\netcoreapp2.1\DirectoryTraversal.dll
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\DirectoryTraversal\obj\Debug\netcoreapp2.1\DirectoryTraversal.pdb

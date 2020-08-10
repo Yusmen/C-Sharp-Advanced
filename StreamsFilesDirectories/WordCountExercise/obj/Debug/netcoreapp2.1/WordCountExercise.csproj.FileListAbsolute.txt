@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\WordCountExercise\bin\Debug\netcoreapp2.1\WordCountExercise.deps.json
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\WordCountExercise\bin\Debug\netcoreapp2.1\WordCountExercise.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\WordCountExercise\bin\Debug\netcoreapp2.1\WordCountExercise.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\WordCountExercise\bin\Debug\netcoreapp2.1\WordCountExercise.dll
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\WordCountExercise\bin\Debug\netcoreapp2.1\WordCountExercise.pdb
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\WordCountExercise\obj\Debug\netcoreapp2.1\WordCountExercise.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\WordCountExercise\obj\Debug\netcoreapp2.1\WordCountExercise.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\WordCountExercise\obj\Debug\netcoreapp2.1\WordCountExercise.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\WordCountExercise\obj\Debug\netcoreapp2.1\WordCountExercise.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\WordCountExercise\obj\Debug\netcoreapp2.1\WordCountExercise.dll
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\WordCountExercise\obj\Debug\netcoreapp2.1\WordCountExercise.pdb

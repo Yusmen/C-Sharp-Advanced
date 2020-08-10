@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\SliceFile\bin\Debug\netcoreapp2.1\SliceFile.deps.json
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\SliceFile\bin\Debug\netcoreapp2.1\SliceFile.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\SliceFile\bin\Debug\netcoreapp2.1\SliceFile.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\SliceFile\bin\Debug\netcoreapp2.1\SliceFile.dll
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\SliceFile\bin\Debug\netcoreapp2.1\SliceFile.pdb
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\SliceFile\obj\Debug\netcoreapp2.1\SliceFile.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\SliceFile\obj\Debug\netcoreapp2.1\SliceFile.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\SliceFile\obj\Debug\netcoreapp2.1\SliceFile.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\SliceFile\obj\Debug\netcoreapp2.1\SliceFile.dll
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\SliceFile\obj\Debug\netcoreapp2.1\SliceFile.pdb
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\SliceFile\obj\Debug\netcoreapp2.1\SliceFile.csprojAssemblyReference.cache

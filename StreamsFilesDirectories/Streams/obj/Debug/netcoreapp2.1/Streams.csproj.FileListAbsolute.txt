@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\Streams\bin\Debug\netcoreapp2.1\Streams.deps.json
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\Streams\bin\Debug\netcoreapp2.1\Streams.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\Streams\bin\Debug\netcoreapp2.1\Streams.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\Streams\bin\Debug\netcoreapp2.1\Streams.dll
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\Streams\bin\Debug\netcoreapp2.1\Streams.pdb
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\Streams\obj\Debug\netcoreapp2.1\Streams.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\Streams\obj\Debug\netcoreapp2.1\Streams.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\Streams\obj\Debug\netcoreapp2.1\Streams.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\Streams\obj\Debug\netcoreapp2.1\Streams.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\Streams\obj\Debug\netcoreapp2.1\Streams.dll
+C:\Users\usmenzabanov\source\repos\StreamsFilesDirectories\Streams\obj\Debug\netcoreapp2.1\Streams.pdb
