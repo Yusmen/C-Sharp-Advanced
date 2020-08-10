@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\Solution6\SimpleCalculator\bin\Debug\netcoreapp2.1\SimpleCalculator.deps.json
+C:\Users\usmenzabanov\source\repos\Solution6\SimpleCalculator\bin\Debug\netcoreapp2.1\SimpleCalculator.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\Solution6\SimpleCalculator\bin\Debug\netcoreapp2.1\SimpleCalculator.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\Solution6\SimpleCalculator\bin\Debug\netcoreapp2.1\SimpleCalculator.dll
+C:\Users\usmenzabanov\source\repos\Solution6\SimpleCalculator\bin\Debug\netcoreapp2.1\SimpleCalculator.pdb
+C:\Users\usmenzabanov\source\repos\Solution6\SimpleCalculator\obj\Debug\netcoreapp2.1\SimpleCalculator.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Solution6\SimpleCalculator\obj\Debug\netcoreapp2.1\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution6\SimpleCalculator\obj\Debug\netcoreapp2.1\SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution6\SimpleCalculator\obj\Debug\netcoreapp2.1\SimpleCalculator.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\Solution6\SimpleCalculator\obj\Debug\netcoreapp2.1\SimpleCalculator.dll
+C:\Users\usmenzabanov\source\repos\Solution6\SimpleCalculator\obj\Debug\netcoreapp2.1\SimpleCalculator.pdb

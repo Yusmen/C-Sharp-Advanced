@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\Solution6\PrintEvenNumbers\bin\Debug\netcoreapp2.1\PrintEvenNumbers.deps.json
+C:\Users\usmenzabanov\source\repos\Solution6\PrintEvenNumbers\bin\Debug\netcoreapp2.1\PrintEvenNumbers.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\Solution6\PrintEvenNumbers\bin\Debug\netcoreapp2.1\PrintEvenNumbers.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\Solution6\PrintEvenNumbers\bin\Debug\netcoreapp2.1\PrintEvenNumbers.dll
+C:\Users\usmenzabanov\source\repos\Solution6\PrintEvenNumbers\bin\Debug\netcoreapp2.1\PrintEvenNumbers.pdb
+C:\Users\usmenzabanov\source\repos\Solution6\PrintEvenNumbers\obj\Debug\netcoreapp2.1\PrintEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution6\PrintEvenNumbers\obj\Debug\netcoreapp2.1\PrintEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution6\PrintEvenNumbers\obj\Debug\netcoreapp2.1\PrintEvenNumbers.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\Solution6\PrintEvenNumbers\obj\Debug\netcoreapp2.1\PrintEvenNumbers.dll
+C:\Users\usmenzabanov\source\repos\Solution6\PrintEvenNumbers\obj\Debug\netcoreapp2.1\PrintEvenNumbers.pdb
+C:\Users\usmenzabanov\source\repos\Solution6\PrintEvenNumbers\obj\Debug\netcoreapp2.1\PrintEvenNumbers.csprojAssemblyReference.cache

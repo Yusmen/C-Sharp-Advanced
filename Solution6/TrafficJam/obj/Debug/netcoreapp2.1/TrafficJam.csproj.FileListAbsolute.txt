@@ -1,0 +1,22 @@
+C:\Users\usmenzabanov\source\repos\Solution6\TrafficJam\bin\Debug\netcoreapp2.1\TrafficJam.deps.json
+C:\Users\usmenzabanov\source\repos\Solution6\TrafficJam\bin\Debug\netcoreapp2.1\TrafficJam.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\Solution6\TrafficJam\bin\Debug\netcoreapp2.1\TrafficJam.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\Solution6\TrafficJam\bin\Debug\netcoreapp2.1\TrafficJam.dll
+C:\Users\usmenzabanov\source\repos\Solution6\TrafficJam\bin\Debug\netcoreapp2.1\TrafficJam.pdb
+C:\Users\usmenzabanov\source\repos\Solution6\TrafficJam\obj\Debug\netcoreapp2.1\TrafficJam.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution6\TrafficJam\obj\Debug\netcoreapp2.1\TrafficJam.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution6\TrafficJam\obj\Debug\netcoreapp2.1\TrafficJam.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\Solution6\TrafficJam\obj\Debug\netcoreapp2.1\TrafficJam.dll
+C:\Users\usmenzabanov\source\repos\Solution6\TrafficJam\obj\Debug\netcoreapp2.1\TrafficJam.pdb
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\Solution6\TrafficJam\bin\Debug\netcoreapp2.1\TrafficJam.deps.json
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\Solution6\TrafficJam\bin\Debug\netcoreapp2.1\TrafficJam.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\Solution6\TrafficJam\bin\Debug\netcoreapp2.1\TrafficJam.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\Solution6\TrafficJam\bin\Debug\netcoreapp2.1\TrafficJam.dll
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\Solution6\TrafficJam\bin\Debug\netcoreapp2.1\TrafficJam.pdb
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\Solution6\TrafficJam\obj\Debug\netcoreapp2.1\TrafficJam.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\Solution6\TrafficJam\obj\Debug\netcoreapp2.1\TrafficJam.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\Solution6\TrafficJam\obj\Debug\netcoreapp2.1\TrafficJam.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\Solution6\TrafficJam\obj\Debug\netcoreapp2.1\TrafficJam.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\Solution6\TrafficJam\obj\Debug\netcoreapp2.1\TrafficJam.dll
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\Solution6\TrafficJam\obj\Debug\netcoreapp2.1\TrafficJam.pdb
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\Solution6\TrafficJam\obj\Debug\netcoreapp2.1\TrafficJam.genruntimeconfig.cache

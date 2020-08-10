@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\Solution6\ConsoleApp1\bin\Debug\netcoreapp2.1\Revrerse Strings.deps.json
+C:\Users\usmenzabanov\source\repos\Solution6\ConsoleApp1\bin\Debug\netcoreapp2.1\Revrerse Strings.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\Solution6\ConsoleApp1\bin\Debug\netcoreapp2.1\Revrerse Strings.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\Solution6\ConsoleApp1\bin\Debug\netcoreapp2.1\Revrerse Strings.dll
+C:\Users\usmenzabanov\source\repos\Solution6\ConsoleApp1\bin\Debug\netcoreapp2.1\Revrerse Strings.pdb
+C:\Users\usmenzabanov\source\repos\Solution6\ConsoleApp1\obj\Debug\netcoreapp2.1\Revrerse Strings.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Solution6\ConsoleApp1\obj\Debug\netcoreapp2.1\Revrerse Strings.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution6\ConsoleApp1\obj\Debug\netcoreapp2.1\Revrerse Strings.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution6\ConsoleApp1\obj\Debug\netcoreapp2.1\Revrerse Strings.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\Solution6\ConsoleApp1\obj\Debug\netcoreapp2.1\Revrerse Strings.dll
+C:\Users\usmenzabanov\source\repos\Solution6\ConsoleApp1\obj\Debug\netcoreapp2.1\Revrerse Strings.pdb

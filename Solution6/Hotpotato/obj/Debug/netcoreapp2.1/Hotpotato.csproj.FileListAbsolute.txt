@@ -1,0 +1,23 @@
+C:\Users\usmenzabanov\source\repos\Solution6\Hotpotato\bin\Debug\netcoreapp2.1\Hotpotato.deps.json
+C:\Users\usmenzabanov\source\repos\Solution6\Hotpotato\bin\Debug\netcoreapp2.1\Hotpotato.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\Solution6\Hotpotato\bin\Debug\netcoreapp2.1\Hotpotato.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\Solution6\Hotpotato\bin\Debug\netcoreapp2.1\Hotpotato.dll
+C:\Users\usmenzabanov\source\repos\Solution6\Hotpotato\bin\Debug\netcoreapp2.1\Hotpotato.pdb
+C:\Users\usmenzabanov\source\repos\Solution6\Hotpotato\obj\Debug\netcoreapp2.1\Hotpotato.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Solution6\Hotpotato\obj\Debug\netcoreapp2.1\Hotpotato.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution6\Hotpotato\obj\Debug\netcoreapp2.1\Hotpotato.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution6\Hotpotato\obj\Debug\netcoreapp2.1\Hotpotato.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\Solution6\Hotpotato\obj\Debug\netcoreapp2.1\Hotpotato.dll
+C:\Users\usmenzabanov\source\repos\Solution6\Hotpotato\obj\Debug\netcoreapp2.1\Hotpotato.pdb
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\Solution6\Hotpotato\bin\Debug\netcoreapp2.1\Hotpotato.deps.json
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\Solution6\Hotpotato\bin\Debug\netcoreapp2.1\Hotpotato.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\Solution6\Hotpotato\bin\Debug\netcoreapp2.1\Hotpotato.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\Solution6\Hotpotato\bin\Debug\netcoreapp2.1\Hotpotato.dll
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\Solution6\Hotpotato\bin\Debug\netcoreapp2.1\Hotpotato.pdb
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\Solution6\Hotpotato\obj\Debug\netcoreapp2.1\Hotpotato.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\Solution6\Hotpotato\obj\Debug\netcoreapp2.1\Hotpotato.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\Solution6\Hotpotato\obj\Debug\netcoreapp2.1\Hotpotato.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\Solution6\Hotpotato\obj\Debug\netcoreapp2.1\Hotpotato.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\Solution6\Hotpotato\obj\Debug\netcoreapp2.1\Hotpotato.dll
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\Solution6\Hotpotato\obj\Debug\netcoreapp2.1\Hotpotato.pdb
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\Solution6\Hotpotato\obj\Debug\netcoreapp2.1\Hotpotato.genruntimeconfig.cache
