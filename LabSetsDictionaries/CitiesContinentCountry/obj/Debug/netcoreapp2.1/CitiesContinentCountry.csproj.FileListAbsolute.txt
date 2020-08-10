@@ -1,0 +1,23 @@
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\CitiesContinentCountry\bin\Debug\netcoreapp2.1\CitiesContinentCountry.deps.json
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\CitiesContinentCountry\bin\Debug\netcoreapp2.1\CitiesContinentCountry.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\CitiesContinentCountry\bin\Debug\netcoreapp2.1\CitiesContinentCountry.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\CitiesContinentCountry\bin\Debug\netcoreapp2.1\CitiesContinentCountry.dll
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\CitiesContinentCountry\bin\Debug\netcoreapp2.1\CitiesContinentCountry.pdb
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\CitiesContinentCountry\obj\Debug\netcoreapp2.1\CitiesContinentCountry.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\CitiesContinentCountry\obj\Debug\netcoreapp2.1\CitiesContinentCountry.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\CitiesContinentCountry\obj\Debug\netcoreapp2.1\CitiesContinentCountry.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\CitiesContinentCountry\obj\Debug\netcoreapp2.1\CitiesContinentCountry.dll
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\CitiesContinentCountry\obj\Debug\netcoreapp2.1\CitiesContinentCountry.pdb
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\CitiesContinentCountry\obj\Debug\netcoreapp2.1\CitiesContinentCountry.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabSetsDictionaries\CitiesContinentCountry\bin\Debug\netcoreapp2.1\CitiesContinentCountry.deps.json
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabSetsDictionaries\CitiesContinentCountry\bin\Debug\netcoreapp2.1\CitiesContinentCountry.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabSetsDictionaries\CitiesContinentCountry\bin\Debug\netcoreapp2.1\CitiesContinentCountry.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabSetsDictionaries\CitiesContinentCountry\bin\Debug\netcoreapp2.1\CitiesContinentCountry.dll
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabSetsDictionaries\CitiesContinentCountry\bin\Debug\netcoreapp2.1\CitiesContinentCountry.pdb
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabSetsDictionaries\CitiesContinentCountry\obj\Debug\netcoreapp2.1\CitiesContinentCountry.csprojAssemblyReference.cache
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabSetsDictionaries\CitiesContinentCountry\obj\Debug\netcoreapp2.1\CitiesContinentCountry.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabSetsDictionaries\CitiesContinentCountry\obj\Debug\netcoreapp2.1\CitiesContinentCountry.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabSetsDictionaries\CitiesContinentCountry\obj\Debug\netcoreapp2.1\CitiesContinentCountry.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabSetsDictionaries\CitiesContinentCountry\obj\Debug\netcoreapp2.1\CitiesContinentCountry.dll
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabSetsDictionaries\CitiesContinentCountry\obj\Debug\netcoreapp2.1\CitiesContinentCountry.pdb
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabSetsDictionaries\CitiesContinentCountry\obj\Debug\netcoreapp2.1\CitiesContinentCountry.genruntimeconfig.cache

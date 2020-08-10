@@ -1,0 +1,21 @@
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\SoftunoParty\bin\Debug\netcoreapp2.1\SoftunoParty.deps.json
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\SoftunoParty\bin\Debug\netcoreapp2.1\SoftunoParty.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\SoftunoParty\bin\Debug\netcoreapp2.1\SoftunoParty.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\SoftunoParty\bin\Debug\netcoreapp2.1\SoftunoParty.dll
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\SoftunoParty\bin\Debug\netcoreapp2.1\SoftunoParty.pdb
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\SoftunoParty\obj\Debug\netcoreapp2.1\SoftunoParty.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\SoftunoParty\obj\Debug\netcoreapp2.1\SoftunoParty.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\SoftunoParty\obj\Debug\netcoreapp2.1\SoftunoParty.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\SoftunoParty\obj\Debug\netcoreapp2.1\SoftunoParty.dll
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\SoftunoParty\obj\Debug\netcoreapp2.1\SoftunoParty.pdb
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabSetsDictionaries\SoftunoParty\bin\Debug\netcoreapp2.1\SoftunoParty.deps.json
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabSetsDictionaries\SoftunoParty\bin\Debug\netcoreapp2.1\SoftunoParty.runtimeconfig.json
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabSetsDictionaries\SoftunoParty\bin\Debug\netcoreapp2.1\SoftunoParty.runtimeconfig.dev.json
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabSetsDictionaries\SoftunoParty\bin\Debug\netcoreapp2.1\SoftunoParty.dll
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabSetsDictionaries\SoftunoParty\bin\Debug\netcoreapp2.1\SoftunoParty.pdb
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabSetsDictionaries\SoftunoParty\obj\Debug\netcoreapp2.1\SoftunoParty.AssemblyInfoInputs.cache
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabSetsDictionaries\SoftunoParty\obj\Debug\netcoreapp2.1\SoftunoParty.AssemblyInfo.cs
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabSetsDictionaries\SoftunoParty\obj\Debug\netcoreapp2.1\SoftunoParty.csproj.CoreCompileInputs.cache
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabSetsDictionaries\SoftunoParty\obj\Debug\netcoreapp2.1\SoftunoParty.dll
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabSetsDictionaries\SoftunoParty\obj\Debug\netcoreapp2.1\SoftunoParty.pdb
+C:\Users\Yusmen\Desktop\C#\C# Advanced\Zadachi_Resheniq\LabSetsDictionaries\SoftunoParty\obj\Debug\netcoreapp2.1\SoftunoParty.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\CountValues\bin\Debug\netcoreapp2.1\CountValues.deps.json
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\CountValues\bin\Debug\netcoreapp2.1\CountValues.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\CountValues\bin\Debug\netcoreapp2.1\CountValues.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\CountValues\bin\Debug\netcoreapp2.1\CountValues.dll
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\CountValues\bin\Debug\netcoreapp2.1\CountValues.pdb
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\CountValues\obj\Debug\netcoreapp2.1\CountValues.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\CountValues\obj\Debug\netcoreapp2.1\CountValues.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\CountValues\obj\Debug\netcoreapp2.1\CountValues.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\CountValues\obj\Debug\netcoreapp2.1\CountValues.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\CountValues\obj\Debug\netcoreapp2.1\CountValues.dll
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\CountValues\obj\Debug\netcoreapp2.1\CountValues.pdb

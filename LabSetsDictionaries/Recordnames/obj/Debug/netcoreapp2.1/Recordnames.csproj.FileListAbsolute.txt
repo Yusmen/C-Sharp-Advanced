@@ -1,0 +1,10 @@
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\Recordnames\bin\Debug\netcoreapp2.1\Recordnames.deps.json
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\Recordnames\bin\Debug\netcoreapp2.1\Recordnames.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\Recordnames\bin\Debug\netcoreapp2.1\Recordnames.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\Recordnames\bin\Debug\netcoreapp2.1\Recordnames.dll
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\Recordnames\bin\Debug\netcoreapp2.1\Recordnames.pdb
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\Recordnames\obj\Debug\netcoreapp2.1\Recordnames.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\Recordnames\obj\Debug\netcoreapp2.1\Recordnames.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\Recordnames\obj\Debug\netcoreapp2.1\Recordnames.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\Recordnames\obj\Debug\netcoreapp2.1\Recordnames.dll
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\Recordnames\obj\Debug\netcoreapp2.1\Recordnames.pdb

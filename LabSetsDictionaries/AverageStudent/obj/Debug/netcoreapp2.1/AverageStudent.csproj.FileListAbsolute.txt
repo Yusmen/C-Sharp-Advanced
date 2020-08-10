@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\AverageStudent\bin\Debug\netcoreapp2.1\AverageStudent.deps.json
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\AverageStudent\bin\Debug\netcoreapp2.1\AverageStudent.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\AverageStudent\bin\Debug\netcoreapp2.1\AverageStudent.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\AverageStudent\bin\Debug\netcoreapp2.1\AverageStudent.dll
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\AverageStudent\bin\Debug\netcoreapp2.1\AverageStudent.pdb
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\AverageStudent\obj\Debug\netcoreapp2.1\AverageStudent.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\AverageStudent\obj\Debug\netcoreapp2.1\AverageStudent.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\AverageStudent\obj\Debug\netcoreapp2.1\AverageStudent.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\AverageStudent\obj\Debug\netcoreapp2.1\AverageStudent.dll
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\AverageStudent\obj\Debug\netcoreapp2.1\AverageStudent.pdb
+C:\Users\usmenzabanov\source\repos\LabSetsDictionaries\AverageStudent\obj\Debug\netcoreapp2.1\AverageStudent.csprojAssemblyReference.cache
