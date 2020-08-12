@@ -1,0 +1,10 @@
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\aPpliedArtihmetics\bin\Debug\netcoreapp2.1\aPpliedArtihmetics.deps.json
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\aPpliedArtihmetics\bin\Debug\netcoreapp2.1\aPpliedArtihmetics.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\aPpliedArtihmetics\bin\Debug\netcoreapp2.1\aPpliedArtihmetics.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\aPpliedArtihmetics\bin\Debug\netcoreapp2.1\aPpliedArtihmetics.dll
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\aPpliedArtihmetics\bin\Debug\netcoreapp2.1\aPpliedArtihmetics.pdb
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\aPpliedArtihmetics\obj\Debug\netcoreapp2.1\aPpliedArtihmetics.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\aPpliedArtihmetics\obj\Debug\netcoreapp2.1\aPpliedArtihmetics.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\aPpliedArtihmetics\obj\Debug\netcoreapp2.1\aPpliedArtihmetics.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\aPpliedArtihmetics\obj\Debug\netcoreapp2.1\aPpliedArtihmetics.dll
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\aPpliedArtihmetics\obj\Debug\netcoreapp2.1\aPpliedArtihmetics.pdb

@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\CustomMinFunction\obj\Debug\netcoreapp2.1\CustomMinFunction.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\CustomMinFunction\obj\Debug\netcoreapp2.1\CustomMinFunction.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\CustomMinFunction\obj\Debug\netcoreapp2.1\CustomMinFunction.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\CustomMinFunction\bin\Debug\netcoreapp2.1\CustomMinFunction.deps.json
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\CustomMinFunction\bin\Debug\netcoreapp2.1\CustomMinFunction.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\CustomMinFunction\bin\Debug\netcoreapp2.1\CustomMinFunction.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\CustomMinFunction\bin\Debug\netcoreapp2.1\CustomMinFunction.dll
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\CustomMinFunction\bin\Debug\netcoreapp2.1\CustomMinFunction.pdb
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\CustomMinFunction\obj\Debug\netcoreapp2.1\CustomMinFunction.dll
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\CustomMinFunction\obj\Debug\netcoreapp2.1\CustomMinFunction.pdb
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\CustomMinFunction\obj\Debug\netcoreapp2.1\CustomMinFunction.csprojAssemblyReference.cache

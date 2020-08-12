@@ -1,0 +1,10 @@
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\FindEvenesOrOdds\bin\Debug\netcoreapp2.1\FindEvenesOrOdds.deps.json
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\FindEvenesOrOdds\bin\Debug\netcoreapp2.1\FindEvenesOrOdds.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\FindEvenesOrOdds\bin\Debug\netcoreapp2.1\FindEvenesOrOdds.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\FindEvenesOrOdds\bin\Debug\netcoreapp2.1\FindEvenesOrOdds.dll
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\FindEvenesOrOdds\bin\Debug\netcoreapp2.1\FindEvenesOrOdds.pdb
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\FindEvenesOrOdds\obj\Debug\netcoreapp2.1\FindEvenesOrOdds.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\FindEvenesOrOdds\obj\Debug\netcoreapp2.1\FindEvenesOrOdds.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\FindEvenesOrOdds\obj\Debug\netcoreapp2.1\FindEvenesOrOdds.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\FindEvenesOrOdds\obj\Debug\netcoreapp2.1\FindEvenesOrOdds.dll
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\FindEvenesOrOdds\obj\Debug\netcoreapp2.1\FindEvenesOrOdds.pdb

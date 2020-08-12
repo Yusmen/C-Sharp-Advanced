@@ -1,0 +1,10 @@
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\ActionPoint\bin\Debug\netcoreapp2.1\ActionPoint.deps.json
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\ActionPoint\bin\Debug\netcoreapp2.1\ActionPoint.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\ActionPoint\bin\Debug\netcoreapp2.1\ActionPoint.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\ActionPoint\bin\Debug\netcoreapp2.1\ActionPoint.dll
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\ActionPoint\bin\Debug\netcoreapp2.1\ActionPoint.pdb
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\ActionPoint\obj\Debug\netcoreapp2.1\ActionPoint.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\ActionPoint\obj\Debug\netcoreapp2.1\ActionPoint.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\ActionPoint\obj\Debug\netcoreapp2.1\ActionPoint.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\ActionPoint\obj\Debug\netcoreapp2.1\ActionPoint.dll
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\ActionPoint\obj\Debug\netcoreapp2.1\ActionPoint.pdb

@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\PartyReservationFiletrModule\obj\Debug\netcoreapp2.1\PartyReservationFiletrModule.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\PartyReservationFiletrModule\obj\Debug\netcoreapp2.1\PartyReservationFiletrModule.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\PartyReservationFiletrModule\obj\Debug\netcoreapp2.1\PartyReservationFiletrModule.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\PartyReservationFiletrModule\bin\Debug\netcoreapp2.1\PartyReservationFiletrModule.deps.json
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\PartyReservationFiletrModule\bin\Debug\netcoreapp2.1\PartyReservationFiletrModule.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\PartyReservationFiletrModule\bin\Debug\netcoreapp2.1\PartyReservationFiletrModule.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\PartyReservationFiletrModule\bin\Debug\netcoreapp2.1\PartyReservationFiletrModule.dll
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\PartyReservationFiletrModule\bin\Debug\netcoreapp2.1\PartyReservationFiletrModule.pdb
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\PartyReservationFiletrModule\obj\Debug\netcoreapp2.1\PartyReservationFiletrModule.dll
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\PartyReservationFiletrModule\obj\Debug\netcoreapp2.1\PartyReservationFiletrModule.pdb
+C:\Users\usmenzabanov\source\repos\ExerciseFuctionalProgramming\PartyReservationFiletrModule\obj\Debug\netcoreapp2.1\PartyReservationFiletrModule.csprojAssemblyReference.cache
