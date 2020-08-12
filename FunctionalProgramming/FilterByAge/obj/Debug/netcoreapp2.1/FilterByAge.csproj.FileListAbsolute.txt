@@ -1,0 +1,11 @@
+C:\Users\usmenzabanov\source\repos\FunctionalProgramming\FilterByAge\bin\Debug\netcoreapp2.1\FilterByAge.deps.json
+C:\Users\usmenzabanov\source\repos\FunctionalProgramming\FilterByAge\bin\Debug\netcoreapp2.1\FilterByAge.runtimeconfig.json
+C:\Users\usmenzabanov\source\repos\FunctionalProgramming\FilterByAge\bin\Debug\netcoreapp2.1\FilterByAge.runtimeconfig.dev.json
+C:\Users\usmenzabanov\source\repos\FunctionalProgramming\FilterByAge\bin\Debug\netcoreapp2.1\FilterByAge.dll
+C:\Users\usmenzabanov\source\repos\FunctionalProgramming\FilterByAge\bin\Debug\netcoreapp2.1\FilterByAge.pdb
+C:\Users\usmenzabanov\source\repos\FunctionalProgramming\FilterByAge\obj\Debug\netcoreapp2.1\FilterByAge.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\FunctionalProgramming\FilterByAge\obj\Debug\netcoreapp2.1\FilterByAge.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\FunctionalProgramming\FilterByAge\obj\Debug\netcoreapp2.1\FilterByAge.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\source\repos\FunctionalProgramming\FilterByAge\obj\Debug\netcoreapp2.1\FilterByAge.AssemblyInfo.cs
+C:\Users\usmenzabanov\source\repos\FunctionalProgramming\FilterByAge\obj\Debug\netcoreapp2.1\FilterByAge.dll
+C:\Users\usmenzabanov\source\repos\FunctionalProgramming\FilterByAge\obj\Debug\netcoreapp2.1\FilterByAge.pdb
